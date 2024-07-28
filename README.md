@@ -27,3 +27,12 @@ The JavaScript file contains the game logic. It includes functions for initializ
 - **init**: Initializes the game state, including resetting scores and setting the active player.
 - **switchPlayer**: Switches the active player when a player rolls a 1 or chooses to hold their score.
 - **Event Listeners**: Handles clicks on the roll dice, hold, and new game buttons to update the game state and interface.
+
+1) Initial Game State
+![piggame3](https://github.com/user-attachments/assets/62efbb1a-5868-442c-a1a6-42a47a10edbe)
+
+2) Screenshot of an ongoing game
+![piggame2](https://github.com/user-attachments/assets/7457bd79-0d82-485d-a3e6-6bb4adaa147b)
+
+3) User wins a game
+![piggame](https://github.com/user-attachments/assets/fdb7c70d-1818-47d6-961c-95f742c20a7f)
